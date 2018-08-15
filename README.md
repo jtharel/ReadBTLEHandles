@@ -11,7 +11,7 @@ read_all_handles.py is a Python script that utilizes the excellent gatttool util
 ## Usage 
 Sample output against a Nike+ FuelBand:
 
-`# read_all_handles.py 00:01:02:03:04:05 
+```# read_all_handles.py 00:01:02:03:04:05 `
 
 Handle:  0x0001
 Characteristic value\/descriptor:   00 18 
@@ -58,4 +58,4 @@ Handle:  0x000b
 Characteristic value\/descriptor:   46 42 53 45 
 Ascii: FBSE 
 **************************************************
-`
+```
