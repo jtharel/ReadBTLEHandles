@@ -1,7 +1,7 @@
 # ReadBTLEHandles
 Read all handles on a BTLE device
 
-read_all_handles.py is a Python script that utilizes the excellent gatttool utility to read all handles on a Bluetooth Low Energy (BTLE) device and automatically convert the hex values to ascii.
+read_all_handles.py is a Python script that utilizes the excellent gatttool utility to read all handles on a Bluetooth Low Energy (BTLE) device and automatically converts the hex values to ascii.
 
 Read_all_handles.sh is a Bash script that does the same as the Python script.
 
